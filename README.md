@@ -1,6 +1,6 @@
-# ai_music
+# ai_music player
 
-IT is a Ai based Radio
+IT is a Ai based music player
 
 ## Getting Started
 
