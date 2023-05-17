@@ -28,4 +28,8 @@ Here You Can Download Apk of Our App, ➡️ https://github.com/Beatrow77/AIMucs
   <source media="(prefers-color-scheme: dark)" srcset="ScreenShot/Screenshot 2023-05-17 113816.png">
   <source media="(prefers-color-scheme: light)" srcset="ScreenShot/Screenshot 2023-05-17 113816.png">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="ScreenShot/Screenshot 2023-05-17 113816.png">
-</picture>
+</picture>,
+
+
+![DanceEmojiGIF](https://github.com/Beatrow77/AI-Music-Player-Final-/assets/76554427/c2b5fe3f-f059-4fcc-aabe-9227b774a374)
+
