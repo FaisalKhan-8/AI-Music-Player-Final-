@@ -16,8 +16,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-Here You Can Download Apk of Our App ![ArrowGIF](https://github.com/Beatrow77/AI-Music-Player-Final-/assets/76554427/9223ebc1-bc63-419e-a51c-1823e37b46e5)
-https://github.com/Beatrow77/AIMucsic-player-apk.git
+Here You Can Download Apk of Our App, ➡️ https://github.com/Beatrow77/AIMucsic-player-apk.git
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="ScreenShot/Screenshot 2023-05-17 113859.png">
