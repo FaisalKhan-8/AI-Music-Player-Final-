@@ -22,7 +22,7 @@ samples, guidance on mobile development, and a full API reference.
 </picture>,
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="ScreenShot/Screenshot 2023-05-17 113859.png">
-  <source media="(prefers-color-scheme: light)" srcset="ScreenShot/Screenshot 2023-05-17 113859.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="ScreenShot/Screenshot 2023-05-17 113859.png">
+  <source media="(prefers-color-scheme: dark)" srcset="ScreenShot/Screenshot 2023-05-17 113816.png">
+  <source media="(prefers-color-scheme: light)" srcset="ScreenShot/Screenshot 2023-05-17 113816.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="ScreenShot/Screenshot 2023-05-17 113816.png">
 </picture>
